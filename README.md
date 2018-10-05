@@ -1,4 +1,4 @@
-# Prediction model application for KMeans and KNN
+# Model analysis application for KMeans and KNN
 Use e-commerce activity data for a given set of products to implement analysis.
 
 Data file is item_feature2.csv, and data noun explanation as item_explanation.csv.
